@@ -449,7 +449,7 @@ ABOUT
   bottom: 0;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: white;
+  background: #fffffff5;
   padding: 40px;
   justify-content: center;
   max-width: 900px;
@@ -458,6 +458,7 @@ ABOUT
 @media screen and (max-width: 767px) {
   #about .contents .about-content {
     transform: translate(-50%, -20%);
+    padding: 20px;
   }
 }
 #about .contents .about-content-text {
