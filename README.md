@@ -1,4 +1,4 @@
-# websystems.io
+# .github.io
 
 izu88がポートフォリオ用に制作した架空企業のコーポレートサイトです。
 
