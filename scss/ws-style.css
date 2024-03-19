@@ -458,7 +458,7 @@ ABOUT
 @media screen and (max-width: 767px) {
   #about .contents .about-content {
     transform: translate(-50%, -20%);
-    padding: 20px;
+    padding: 15px 25px;
   }
 }
 #about .contents .about-content-text {
